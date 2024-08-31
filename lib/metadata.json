@@ -1,31 +1,16 @@
 {
   "vaultName": "وب پیج",
-  "lastExport": 1725134000805,
+  "lastExport": 1725137651625,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
+  "validBodyClasses": "publish css-settings-manager show-inline-title show-ribbon theme-dark",
   "useCustomHeadContent": false,
   "useCustomFavicon": true,
   "files": [
-    "dataview/دیتاویو.md",
-    "dataview/دیتاویو سریالیزر.md",
-    "Resources/Documentaries/AlphaGo.md",
-    "Resources/Documentaries/Beyond Utopia.md",
-    "Resources/Documentaries/Room 237.md",
-    "Resources/Documentaries/اتاق جنگ.md",
-    "Resources/Documentaries/برای پس از مرگم.md",
-    "Resources/Documentaries/بهتان برای حفظ نظام.md",
-    "Resources/Documentaries/جام زهر.md",
-    "Resources/Documentaries/جزیره ماهی.md",
-    "Resources/Documentaries/جوان مرگ.md",
-    "Resources/Documentaries/رضا عابدینی گرافیک ایرانی.md",
-    "Resources/Documentaries/روزگار گل آقایی.md",
-    "Resources/Documentaries/رویاهای دم صبح.md",
-    "Resources/Documentaries/شکوفه های زمستان.md",
-    "Resources/Documentaries/قمار.md",
-    "Resources/Documentaries/کودتای خزنده در سپاه.md",
-    "Resources/Documentaries/لاتارینو.md",
-    "Resources/Documentaries/مستند تستی با نام طولانی که بیشتر از دو خط می شود.md",
-    "فولدر1/تست.md",
+    "Attachments/avatar.png",
+    "Attachments/Doorspportunity.jpg",
+    "content/بوم.canvas",
+    "content/تست.md",
+    "Untitled/Untitled.md",
     "index.md",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
@@ -57,7 +42,9 @@
     "lib/styles/other-plugins.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/main-styles.css",
-    "lib/styles/snippets.css"
+    "lib/media/avatar.png",
+    "lib/media/doorspportunity.jpg",
+    "attachments/avatar.png"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -89,321 +76,254 @@
     "lib/styles/obsidian.css",
     "lib/styles/other-plugins.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css",
-    "lib/styles/snippets.css"
+    "lib/styles/main-styles.css"
   ],
   "fileInfo": {
     "index.md": {
-      "modifiedTime": 1725134000805,
-      "sourceSize": 156,
+      "modifiedTime": 1725137651625,
+      "sourceSize": 131,
       "exportedPath": "index.html",
-      "dependencies": []
+      "dependencies": [
+        "attachments/avatar.png"
+      ]
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1725134000805,
+      "modifiedTime": 1725137651625,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1725134000805,
+      "modifiedTime": 1725137651625,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1725134000805,
+      "modifiedTime": 1725137651625,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1725134000805,
+      "modifiedTime": 1725137651625,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1725134000805,
+      "modifiedTime": 1725137651625,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1725134000805,
+      "modifiedTime": 1725137651625,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1725134000805,
+      "modifiedTime": 1725137651625,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1725134000805,
+      "modifiedTime": 1725137651625,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1725134000805,
+      "modifiedTime": 1725137651625,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1725134000805,
+      "modifiedTime": 1725137651625,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1725134000805,
+      "modifiedTime": 1725137651625,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1725134000805,
+      "modifiedTime": 1725137651625,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1725134000805,
+      "modifiedTime": 1725137651625,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1725134000805,
+      "modifiedTime": 1725137651625,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1725134000805,
+      "modifiedTime": 1725137651625,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1725134000805,
+      "modifiedTime": 1725137651625,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1725134000805,
-      "sourceSize": 20646,
+      "modifiedTime": 1725137651625,
+      "sourceSize": 8380,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1725134000805,
+      "modifiedTime": 1725137651625,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1725134000805,
+      "modifiedTime": 1725137651625,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1725134000805,
+      "modifiedTime": 1725137651625,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1725134000805,
+      "modifiedTime": 1725137651625,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1725134000805,
+      "modifiedTime": 1725137651625,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1725134000805,
+      "modifiedTime": 1725137651625,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1725134000805,
+      "modifiedTime": 1725137651625,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1725134000805,
+      "modifiedTime": 1725137651625,
       "sourceSize": 2610,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1725134000805,
-      "sourceSize": 1891,
+      "modifiedTime": 1725137651625,
+      "sourceSize": 370,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1725134000805,
+      "modifiedTime": 1725137651625,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1725134000805,
+      "modifiedTime": 1725137651625,
       "sourceSize": 415,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1725134000805,
+      "modifiedTime": 1725137651625,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
-    "dataview/دیتاویو.md": {
-      "modifiedTime": 1725126551494,
-      "sourceSize": 163,
-      "exportedPath": "dataview/دیتاویو.html",
-      "dependencies": []
-    },
-    "Resources/Documentaries/AlphaGo.md": {
-      "modifiedTime": 1725126184340,
-      "sourceSize": 1551,
-      "exportedPath": "resources/documentaries/alphago.html",
-      "dependencies": []
-    },
-    "Resources/Documentaries/Beyond Utopia.md": {
-      "modifiedTime": 1725126184340,
-      "sourceSize": 386,
-      "exportedPath": "resources/documentaries/beyond-utopia.html",
-      "dependencies": []
-    },
-    "Resources/Documentaries/Room 237.md": {
-      "modifiedTime": 1725126184340,
-      "sourceSize": 7105,
-      "exportedPath": "resources/documentaries/room-237.html",
-      "dependencies": []
-    },
-    "Resources/Documentaries/اتاق جنگ.md": {
-      "modifiedTime": 1725126184340,
-      "sourceSize": 204,
-      "exportedPath": "resources/documentaries/اتاق-جنگ.html",
-      "dependencies": []
-    },
-    "Resources/Documentaries/برای پس از مرگم.md": {
-      "modifiedTime": 1725126184340,
-      "sourceSize": 236,
-      "exportedPath": "resources/documentaries/برای-پس-از-مرگم.html",
-      "dependencies": []
-    },
-    "Resources/Documentaries/بهتان برای حفظ نظام.md": {
-      "modifiedTime": 1725126184340,
-      "sourceSize": 261,
-      "exportedPath": "resources/documentaries/بهتان-برای-حفظ-نظام.html",
-      "dependencies": []
-    },
-    "Resources/Documentaries/جام زهر.md": {
-      "modifiedTime": 1725126184340,
-      "sourceSize": 199,
-      "exportedPath": "resources/documentaries/جام-زهر.html",
-      "dependencies": []
-    },
-    "Resources/Documentaries/جزیره ماهی.md": {
-      "modifiedTime": 1725126184340,
-      "sourceSize": 1351,
-      "exportedPath": "resources/documentaries/جزیره-ماهی.html",
-      "dependencies": []
-    },
-    "Resources/Documentaries/جوان مرگ.md": {
-      "modifiedTime": 1725126184340,
-      "sourceSize": 218,
-      "exportedPath": "resources/documentaries/جوان-مرگ.html",
-      "dependencies": []
-    },
-    "Resources/Documentaries/رضا عابدینی گرافیک ایرانی.md": {
-      "modifiedTime": 1725126184340,
-      "sourceSize": 311,
-      "exportedPath": "resources/documentaries/رضا-عابدینی-گرافیک-ایرانی.html",
-      "dependencies": []
-    },
-    "Resources/Documentaries/روزگار گل آقایی.md": {
-      "modifiedTime": 1725126184340,
-      "sourceSize": 314,
-      "exportedPath": "resources/documentaries/روزگار-گل-آقایی.html",
-      "dependencies": []
-    },
-    "Resources/Documentaries/رویاهای دم صبح.md": {
-      "modifiedTime": 1725126184340,
-      "sourceSize": 258,
-      "exportedPath": "resources/documentaries/رویاهای-دم-صبح.html",
-      "dependencies": []
-    },
-    "Resources/Documentaries/شکوفه های زمستان.md": {
-      "modifiedTime": 1725126184340,
-      "sourceSize": 267,
-      "exportedPath": "resources/documentaries/شکوفه-های-زمستان.html",
-      "dependencies": []
-    },
-    "Resources/Documentaries/قمار.md": {
-      "modifiedTime": 1725126184340,
-      "sourceSize": 206,
-      "exportedPath": "resources/documentaries/قمار.html",
-      "dependencies": []
-    },
-    "Resources/Documentaries/کودتای خزنده در سپاه.md": {
-      "modifiedTime": 1725126184340,
-      "sourceSize": 266,
-      "exportedPath": "resources/documentaries/کودتای-خزنده-در-سپاه.html",
-      "dependencies": []
-    },
-    "Resources/Documentaries/لاتارینو.md": {
-      "modifiedTime": 1725126184340,
-      "sourceSize": 1237,
-      "exportedPath": "resources/documentaries/لاتارینو.html",
-      "dependencies": []
-    },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1725134000805,
+      "modifiedTime": 1725137651625,
       "sourceSize": 2104,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1725134000805,
-      "sourceSize": 688,
+      "modifiedTime": 1725135194980,
+      "sourceSize": 970,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
     },
-    "فولدر1/تست.md": {
-      "modifiedTime": 1725131653825,
-      "sourceSize": 1671,
-      "exportedPath": "فولدر1/تست.html",
+    "content/تست.md": {
+      "modifiedTime": 1725135518031,
+      "sourceSize": 1548,
+      "exportedPath": "content/تست.html",
       "dependencies": []
     },
-    "Resources/Documentaries/مستند تستی با نام طولانی که بیشتر از دو خط می شود.md": {
-      "modifiedTime": 1725132491221,
-      "sourceSize": 1237,
-      "exportedPath": "resources/documentaries/مستند-تستی-با-نام-طولانی-که-بیشتر-از-دو-خط-می-شود.html",
+    "attachments/avatar.png": {
+      "modifiedTime": 1725137651625,
+      "sourceSize": 2610,
+      "exportedPath": "attachments/avatar.png",
       "dependencies": []
     },
-    "dataview/دیتاویو سریالیزر.md": {
-      "modifiedTime": 1725133978001,
-      "sourceSize": 6345,
-      "exportedPath": "dataview/دیتاویو-سریالیزر.html",
+    "content/بوم.canvas": {
+      "modifiedTime": 1725137440719,
+      "sourceSize": 1109,
+      "exportedPath": "content/بوم.html",
+      "dependencies": [
+        "lib/media/avatar.png"
+      ]
+    },
+    "lib/media/avatar.png": {
+      "modifiedTime": 1725137440719,
+      "sourceSize": 2610,
+      "exportedPath": "lib/media/avatar.png",
       "dependencies": []
+    },
+    "Attachments/avatar.png": {
+      "modifiedTime": 1725137440719,
+      "sourceSize": 2610,
+      "exportedPath": "attachments/avatar.png",
+      "dependencies": []
+    },
+    "Attachments/Doorspportunity.jpg": {
+      "modifiedTime": 1725137569439,
+      "sourceSize": 350873,
+      "exportedPath": "attachments/doorspportunity.jpg",
+      "dependencies": []
+    },
+    "lib/media/doorspportunity.jpg": {
+      "modifiedTime": 1725137625405,
+      "sourceSize": 350873,
+      "exportedPath": "lib/media/doorspportunity.jpg",
+      "dependencies": []
+    },
+    "Untitled/Untitled.md": {
+      "modifiedTime": 1725137625405,
+      "sourceSize": 24,
+      "exportedPath": "untitled/untitled.html",
+      "dependencies": [
+        "lib/media/doorspportunity.jpg"
+      ]
     }
   }
 }
